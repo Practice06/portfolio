@@ -1,0 +1,197 @@
+{
+    "title": "model-home",
+    "content": [
+        {
+            "id": "model-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "Ali Shan"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "Model & Content Creator"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-12.jpg",
+                    "alt": "Ali Shan"
+                }
+            ]
+        },
+        {
+            "id": "model-home-about",
+            "section": "about-section",
+            "section_title": {
+                "title": "About Me",
+                "subtitle": "Visit my prolife"
+            },
+            "texts": [
+                {
+                    "content": "SELECTIVES ONLY!🙃 Be Classy👅. From, Lahore🫦."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about/about-5.jpg"
+                }
+            ]
+        },
+        {
+            "id": "model-home-parallax",
+            "section": "parallax-section",
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-8.jpg"
+                }
+            ]
+        },
+        {
+            "id": "model-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Profiles",
+                "subtitle": "Visit my profiles and keep your feedback"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Instagram",
+                    "category": "alishanofficial_",
+                    "texts": [
+                        {
+                            "content": "Offical Instagram Account with more than 113k fans and followers."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-10.jpg"
+                        }
+                    ],
+                    "path": "https://instagram.com/alishanofficial_",
+                    "likeCount": 113000
+                },
+                {
+                    "id": 2,
+                    "title": "Tiktok",
+                    "category": "alishanofficial_",
+                    "texts": [
+                        {
+                            "content": "Tiktok account with more than 5M followers."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-11.jpg"
+                        }
+                    ],
+                    "path": "https://www.tiktok.com/@alishanofficial_",
+                    "likeCount": 5000000
+                },
+                {
+                    "id": 3,
+                    "title": "alishanone",
+                    "category": "Snapchat",
+                    "texts": [
+                        {
+                            "content": "snapchat account for scanping and chats."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-12.jpg"
+                        }
+                    ],
+                    "path": "https://www.snapchat.com/add/alishanone",
+                    "likeCount": 10000
+                }
+                
+            
+            ]
+        },
+        {
+            "id": "model-home-client",
+            "section": "client-section",
+            "section_title": {
+                "title": "Award I Have Achieve",
+                "subtitle": "Visit my Award"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client4.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "",
+                    "images": [
+                        {
+                            "src": "../images/client/png/client1.png"
+                        }
+                    ]
+                }
+               
+            ]
+        },
+        {
+            "id": "model-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact With Me",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.jpg"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Ali Shan"
+                },
+                {
+                    "content": "Content Creator"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "DM for Collabs and Promotions."
+                }
+            ]
+        }
+    ]
+}
