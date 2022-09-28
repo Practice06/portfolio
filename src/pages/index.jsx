@@ -1,4 +1,5 @@
 import * as React from "react";
+import Helmet from 'react-helmet';
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import { normalizedData } from "@utils";
@@ -15,6 +16,11 @@ const IndexPage = ({ data }) => {
     const content = normalizedData(data?.homePage?.content || []);
 
     return (
+        <>
+        <Helmet>
+<html lang="en" />
+<meta name="google-site-verification" content="UdSoR9Phzzv0Xj01RmA4h4o1wiozhbljlUX9cxe6Hu0"/>
+</Helmet>
         <Layout pageTitle="Ali Shan">
             <Header
                 className="rn-d-none"
@@ -24,6 +30,7 @@ const IndexPage = ({ data }) => {
                     socials: data.site.siteMetadata.socials,
                 }}
             />
+           
             <main className="main-page-wrapper">
                 <HeroArea data={content["hero-section"]} />
                 <AboutArea data={content["about-section"]} hasSeparator />
@@ -33,6 +40,10 @@ const IndexPage = ({ data }) => {
             </main>
             <Footer data={{ ...data.footer }} className="section-separator" />
         </Layout>
+        
+        </>
+        
+        
     );
 };
 
