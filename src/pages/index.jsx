@@ -18,9 +18,13 @@ const IndexPage = ({ data }) => {
     return (
         <>
         <Helmet>
-<html lang="en" />
-<meta name="google-site-verification" content="UdSoR9Phzzv0Xj01RmA4h4o1wiozhbljlUX9cxe6Hu0"/>
-</Helmet>
+            <title>Ali Shan</title>
+            <meta name="description" content="Ali Shan" />
+            <meta name="keywords" content="AliShan, Ali Shan, Ali shan official, Alishangay, ali shan gay," ></meta>
+
+            <html lang="en" />
+            <meta name="google-site-verification" content="kt7S7lkrTeG-WH2SSpTZOBfmIXCgSKYlA9UwBPVP6pw"/>
+            </Helmet>
         <Layout pageTitle="Ali Shan">
             <Header
                 className="rn-d-none"
