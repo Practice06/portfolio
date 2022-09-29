@@ -25,7 +25,7 @@ const IndexPage = ({ data }) => {
             <html lang="en" />
             <meta name="google-site-verification" content="kt7S7lkrTeG-WH2SSpTZOBfmIXCgSKYlA9UwBPVP6pw"/>
             </Helmet>
-        <Layout pageTitle="Ali Shan">
+        <Layout pageTitle="alishanofficial_">
             <Header
                 className="rn-d-none"
                 data={{
