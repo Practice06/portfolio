@@ -6,7 +6,7 @@ module.exports = {
         author: "Khubair Ali",
         siteLanguage: "en",
         image: "banner.jpg",
-        titleTemplate: "alishan",
+        titleTemplate: "alishanofficial_",
         twitterUsername: "@khubairali",
         getform_url:
             " ",
@@ -74,8 +74,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: "Inbio",
-                short_name: "inbio",
+                name: "Ali Shan",
+                short_name: "alishanofficial_",
                 theme_color: "#ff014f",
                 background_color: "#ffffff",
                 display: "standalone",

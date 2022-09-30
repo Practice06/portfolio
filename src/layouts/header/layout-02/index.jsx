@@ -31,7 +31,7 @@ const Header = ({ className, data }) => {
                     <div className="footer">
                         {data?.socials && (
                             <div className="social-share-style-1 mt--40">
-                                <span className="title">find with me</span>
+                                <span className="title">Contact me</span>
                                 <Social>
                                     {data.socials.map((social) => (
                                         <SocialLink

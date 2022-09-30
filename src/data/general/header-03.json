@@ -3,8 +3,8 @@
     "section": "header-3",
     "button": {
         "id": 1,
-        "content": "BUY NOW",
-        "path": "#!",
+        "content": "Ali Shan",
+        "path": "/",
         "className": "no-shadow btn-theme"
     },
     "logo": [
@@ -15,5 +15,5 @@
             "src": "../images/logo/logo.png"
         }
     ],
-    "slogan": "Inbio is a personal portfolio template. You can customize all."
+    "slogan": "Ali Shan. Pakistan top tiktker and content creator."
 }
