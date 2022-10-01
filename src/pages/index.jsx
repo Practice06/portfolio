@@ -18,13 +18,9 @@ const IndexPage = ({ data }) => {
     return (
         <>
         <Helmet>
-            <title>Ali Shan</title>
             <meta name="description" content="Ali Shan is the top Pakistani model and content creator." />
             <meta name="keywords" content="AliShan, Ali Shan, Ali shan official, Alishangay, ali shan gay, alishanofficial_, ali shan dancer, ali shan tiktoker, pakistan top tiktoker, 
             ali tiktoker, shan tiktoker, ali shan instagram, ali shan facebook, ali shan address, ali shan lahore, alishanofficial, gay, gay boy, gay model, gay model in pakistan, pakistani gay" ></meta>
-
-            <html lang="en" />
-            <meta name="google-site-verification" content="kt7S7lkrTeG-WH2SSpTZOBfmIXCgSKYlA9UwBPVP6pw"/>
             </Helmet>
         <Layout pageTitle="alishanofficial_">
             <Header
